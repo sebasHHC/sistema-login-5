@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+/* Importar Bootstrap (si no se agregó en angular.json) */
+
+
+/* Estilos personalizados mínimos */
+body {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+}
+
+/* Clase personalizada para el gradiente de fondo */
+.gradient-bg {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
